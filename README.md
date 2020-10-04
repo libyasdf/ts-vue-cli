@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 合并不相关提交
+```
+git pull origin master --allow-unrelated-histories
+```
