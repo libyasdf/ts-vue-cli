@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 使用Jekyll创建文档
 permalink: /about/
 ---
 
@@ -16,3 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+# 开始创建文档
+
+
