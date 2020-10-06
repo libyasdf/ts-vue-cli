@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll 使用"
 date:   2020-10-06 14:10:12 +0800
 ---
 
-# Welcome
+# jekyll样式加载问题
+** _config.yml ** 配置baseurl为当前项目路径下
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
